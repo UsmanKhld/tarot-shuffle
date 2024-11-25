@@ -1,13 +1,13 @@
 import React from "react";
 import Navbar from "../../Components/Navbar/Navbar";
 
-const Decks = () => {
+const Settings = () => {
 	return (
 		<div>
 			<Navbar />
-			<main>Deck</main>
+			<main>Settings</main>
 		</div>
 	);
 };
 
-export default Decks;
+export default Settings;
